@@ -1,0 +1,93 @@
+[
+  {
+    "title": "The 50/30/20 Budget Rule Explained",
+    "url": "https://www.nerdwallet.com/article/finance/nerdwallet-budget-calculator",
+    "source": "NerdWallet",
+    "category": "Budgeting",
+    "tags": ["rules", "frameworks", "budgeting"],
+    "readTime": 4,
+    "language": "en",
+    "summary": "Learn how to allocate your income into needs, wants, and savings using this popular budgeting method."
+  },
+  
+  {
+    "title": "How to Make a Budget",
+    "url": "https://www.nerdwallet.com/article/finance/how-to-budget",
+    "source": "NerdWallet",
+    "category": "Budgeting",
+    "tags": ["basics", "students"],
+    "readTime": 7,
+    "language": "en",
+    "summary": "Step-by-step starter guide for creating a first budget."
+  },
+  {
+    "title": "How to Create a Budget",
+    "url": "https://bettermoneyhabits.bankofamerica.com/en/saving-budgeting/creating-a-budget",
+    "source": "Bank of America",
+    "category": "Budgeting",
+    "tags": ["budgeting", "planning", "tools"],
+    "readTime": 6,
+    "language": "en",
+    "summary": "Step-by-step guide to creating and maintaining an effective personal budget."
+  },
+  {
+    "title": "Saving Money Tips",
+    "url": "https://www.forbes.com/advisor/banking/savings/how-to-save-money/",
+    "source": "Forbes Advisor",
+    "category": "Saving",
+    "tags": ["saving-tips", "money-management"],
+    "readTime": 8,
+    "language": "en",
+    "summary": "Practical strategies and tips to help you save more money effectively."
+  },
+  {
+    "title": "Emergency Fund Guide",
+    "url": "https://www.discover.com/online-banking/banking-topics/emergency-fund/",
+    "source": "Discover",
+    "category": "Saving",
+    "tags": ["emergency-fund", "financial-safety"],
+    "readTime": 5,
+    "language": "en",
+    "summary": "Learn why emergency funds are crucial and how to build one step by step."
+  },
+  {
+    "title": "Debt Management Strategies",
+    "url": "https://www.debt.org/advice/",
+    "source": "Debt.org",
+    "category": "Debt",
+    "tags": ["debt-management", "financial-freedom"],
+    "readTime": 7,
+    "language": "en",
+    "summary": "Comprehensive guide to understanding and managing different types of debt."
+  },
+  {
+    "title": "Investing for Beginners",
+    "url": "https://www.fidelity.com/learning-center/trading-investing/investing-for-beginners",
+    "source": "Fidelity",
+    "category": "Investing",
+    "tags": ["investing", "beginners", "long-term"],
+    "readTime": 10,
+    "language": "en",
+    "summary": "Introduction to basic investing concepts and getting started with building wealth."
+  },
+  {
+    "title": "Financial Literacy Resources",
+    "url": "https://www.mymoney.gov/",
+    "source": "MyMoney.gov",
+    "category": "Basics",
+    "tags": ["government-resources", "financial-literacy"],
+    "readTime": 3,
+    "language": "en",
+    "summary": "Official U.S. government website dedicated to teaching financial literacy concepts."
+  },
+  {
+    "title": "Types of Student Aid",
+    "url": "https://studentaid.gov/understand-aid/types",
+    "source": "Federal Student Aid",
+    "category": "Student Finance",
+    "tags": ["aid", "grants", "loans"],
+    "readTime": 8,
+    "language": "en",
+    "summary": "Overview of grants, work-study, and loans."
+  }
+]
